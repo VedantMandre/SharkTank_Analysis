@@ -34,7 +34,7 @@ The project comprises two main components: Data Preprocessing and Predictive Mod
 - We generate a bar plot that visually represents the AUC scores of the different models.
 
 ## Data
-- Our dataset is sourced from [source link](https://example.com/dataset-link).
+- Our dataset is sourced from [source link]([https://example.com/dataset-link](https://www.kaggle.com/datasets/ulrikthygepedersen/shark-tank-companies)).
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/your-username/shark-tank-predictive-modeling.git`
