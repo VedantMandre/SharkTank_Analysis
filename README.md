@@ -1,6 +1,6 @@
 # Predictive Modeling for Shark Tank Investment Deals
 
-![Shark Tank](https://example.com/shark-tank-image.jpg)
+![Shark Tank](https://en.wikipedia.org/wiki/Shark_Tank#/media/File:Shark_Tank_Logo.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
