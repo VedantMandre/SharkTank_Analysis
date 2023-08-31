@@ -1,6 +1,6 @@
 # Predictive Modeling for Shark Tank Investment Deals
 
-![Shark Tank][image](https://github.com/VedantMandre/SharkTank_Analysis/assets/114442140/63069e81-b36f-4537-b36a-5641c75b88fa)
+![Shark Tank](https://github.com/VedantMandre/SharkTank_Analysis/assets/114442140/63069e81-b36f-4537-b36a-5641c75b88fa)
 
 ## Table of Contents
 - [Introduction](#introduction)
